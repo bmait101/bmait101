@@ -5,7 +5,7 @@
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/bmait101?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fbmait101)
-[![Twitter follow](https://img.shields.io/twitter/follow/bmait101?label=%20%40bmait101&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/BryanMaitland)
+[![Twitter follow](https://img.shields.io/twitter/follow/BryanMaitland?label=%20%40BryanMaitland&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/BryanMaitland)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.facebook.com/bryan.maitland)
 [![Instagram](https://img.shields.io/badge/-Instagram-red.svg?style=flat-square&logo=instagram&logoColor=white&colorB=C41230&labelColor=BA22F7)](https://www.instagram.com/bryan.maitland/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue.svg?style=flat-square&logo=linkedin&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.linkedin.com/in/cjabradshaw/)
