@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **bmait101/bmait101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +12,14 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat-square&logo=googlescholar&logoColor=white&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.ca/citations?hl=en&user=tGn-FzAAAAAJ&view_op=list_works&sortby=pubdate)
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=flat-square&logo=orcid&logoColor=white&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-4491-5064)
 
+
+## Background
+
+I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/) in [Madison](https://www.google.com/maps/place/Madison,+WI/@43.0849081,-89.5465015,11z/data=!3m1!4b1!4m5!3m4!1s0x8806536d3a2019ff:0x4e0cfcb5ba484198!8m2!3d43.0721661!4d-89.4007501), Wisconsin. I am a quantitative ecologist specializing in freshwater ecosystems and conservation research. I use ecological models and collaborative science to advance fundamental knowledge and develop actionable solutions to real-world problems that human activity have precipitated in the *Anthropocene*. My aim is thus to provide science-based evidence to influence policy and social behavior for the conservation and preservation of our planet's biowealth (see also [my CV here](https://bryan-m-maitland.netlify.app/uploads/cv.pdf)). 
+
+<br>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=bmait101&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmait101&langs_count=4&layout=compact&theme=default)
+
+![Metrics](https://metrics.lecoq.io/bmait101?template=classic)
