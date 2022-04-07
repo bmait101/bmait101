@@ -21,6 +21,27 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 ## ✨Highlighted✨ repositories
 
 
+### _Conservation ecology_
+
+- [seasonal weather and stream trout](https://github.com/bmait101/swass)
+- [wisconsin stream classification](https://github.com/bmait101/wi-stream-class)
+- [distribution of trout in driftless streams](https://github.com/bmait101/driftless-trout-presence)
+- [stream crossing impacts on boreal fish and stream habitat](https://github.com/bmait101/culverts-and-boreal-stream-fish)
+- [prioritizing culvert restoration in the boreal forest](https://github.com/bmait101/culvert-restoration-prioritization)
+
+
+### _Food webs and stable isotope ecology_
+
+- [food web expansion and trophic redundancy in streams](https://github.com/bmait101/trophic-expansion)
+- [trophic discimination factors and isotopic incorportation](https://github.com/bmait101/isotopic-discrimination-incorporation)
+- [non-lethal fin sampling for fish food web studies using stable isotopes](https://github.com/bmait101/non-lethal-fin-models)
+
+
+### _Other_
+
+- [wisconsin water resources fellowship model]()
+
+
 
 <br>
 
