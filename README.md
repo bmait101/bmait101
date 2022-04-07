@@ -39,7 +39,7 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 
 ### _Other_
 
-- [wisconsin water resources fellowship model 🦱🧑👩]()
+- [wisconsin water resources fellowship model 🧑👩]()
 
 
 
