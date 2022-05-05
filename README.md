@@ -33,6 +33,7 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 ### _Food webs and stable isotope ecology_
 
 - [food web expansion and trophic redundancy in streams ](https://github.com/bmait101/trophic-expansion)
+- [identifying baselines for stable isotope stuides](https://github.com/bmait101/baseline-sia-proxies)
 - [trophic discimination factors and isotopic incorportation 🥼](https://github.com/bmait101/isotopic-discrimination-incorporation)
 - [non-lethal fin sampling for fish food web studies using stable isotopes](https://github.com/bmait101/non-lethal-fin-models)
 
