@@ -15,7 +15,7 @@
 
 ## Background
 
-I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/) in [Madison](https://www.google.com/maps/place/Madison,+WI/@43.0849081,-89.5465015,11z/data=!3m1!4b1!4m5!3m4!1s0x8806536d3a2019ff:0x4e0cfcb5ba484198!8m2!3d43.0721661!4d-89.4007501), Wisconsin. I am a quantitative ecologist specializing in freshwater ecosystems and conservation research. I use ecological models and collaborative science to advance fundamental knowledge and develop actionable solutions to real-world problems that human activity have precipitated in the *Anthropocene*. My aim is thus to provide science-based evidence to influence policy and social behavior for the conservation and preservation of our planet's biowealth (see also [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf)). 
+I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/) in [Madison](https://www.google.com/maps/place/Madison,+WI/@43.0849081,-89.5465015,11z/data=!3m1!4b1!4m5!3m4!1s0x8806536d3a2019ff:0x4e0cfcb5ba484198!8m2!3d43.0721661!4d-89.4007501), Wisconsin. As an ecologist, I study the structure and function of freshwater ecosystems in response to environmental change. My aim is to integrate science-based approaches with on-the-ground management decisions. And I also actively engage in science communication and community science efforts. (see also [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf)). 
 
 
 ## ✨Highlighted✨ repositories
@@ -48,7 +48,4 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bmait101&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmait101&langs_count=4&layout=compact&theme=default)
-
-![Metrics](https://metrics.lecoq.io/bmait101?template=classic&config.timezone=USA%2FChicago)
-
 
