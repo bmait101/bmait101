@@ -42,10 +42,3 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 
 - [wisconsin water resources fellowship model 🧑👩]()
 
-
-
-<br>
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=bmait101&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmait101&langs_count=4&layout=compact&theme=default)
-
