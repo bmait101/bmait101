@@ -42,3 +42,5 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 
 - [wisconsin water resources fellowship model 🧑👩]()
 
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmait101)](https://github.com/bmait101/github-readme-stats)
+
