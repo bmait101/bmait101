@@ -13,9 +13,9 @@
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=flat-square&logo=orcid&logoColor=white&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-4491-5064)
 
 
-## Background
+## Welcome!
 
-I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/) in [Madison](https://www.google.com/maps/place/Madison,+WI/@43.0849081,-89.5465015,11z/data=!3m1!4b1!4m5!3m4!1s0x8806536d3a2019ff:0x4e0cfcb5ba484198!8m2!3d43.0721661!4d-89.4007501), Wisconsin. I work as both a pure and an applied ecologist and I am particularly keen on working at the interface between the two disciplines. As an ecologist, I study the structure and function of freshwater ecosystems in response to environmental change. My aim is to integrate science-based approaches with on-the-ground management decisions. I also actively engage in science communication and community science efforts. (see also [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf)). 
+I am a Research Fish Biologist in the [Water and Watersheds Program](https://www.fs.usda.gov/research/rmrs/programs/waterwatersheds) at the U.S. Forest Service [Rocky Mountain Research Station](https://www.fs.usda.gov/research/rmrs) working out of in Boise, ID. I enjoy linking theory with big data, and I strive to address pressing ecological and conservation questions while remaining grounded in empiricism. I also have long-standing professional and personal interests in the ecology, conservation, and natural history of fishes. For more info, check out my [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf)). 
 
 
 ## ✨Highlighted✨ repositories
@@ -32,14 +32,10 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 
 ### _Food webs and stable isotope ecology_
 
-- [food web expansion and trophic redundancy in streams ](https://github.com/bmait101/trophic-expansion)
+- [food web expansion and trophic redundancy in streams](https://github.com/bmait101/trophic-expansion)
 - [identifying baselines for stable isotope stuides](https://github.com/bmait101/baseline-sia-proxies)
-- [trophic discimination factors and isotopic incorportation 🥼](https://github.com/bmait101/isotopic-discrimination-incorporation)
+- [trophic discimination factors and isotopic incorportation ](https://github.com/bmait101/isotopic-discrimination-incorporation)
 - [non-lethal fin sampling for fish food web studies using stable isotopes](https://github.com/bmait101/non-lethal-fin-models)
 
-
-### _Other_
-
-- [wisconsin water resources fellowship model 🧑👩]()
 
 
