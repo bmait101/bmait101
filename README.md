@@ -19,7 +19,7 @@ I am a Research Fish Biologist in the [Water and Watersheds Program](https://www
 
 For more info, check out my [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf). 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/113627702@N02/52132847194/in/dateposted-public/" title="IMG_2005"><img src="https://live.staticflickr.com/65535/52132847194_9ca15ea7f1_k.jpg" width="500" height="250" alt="IMG_2005"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/113627702@N02/52132847194/in/dateposted-public/" title="IMG_2005"><img src="https://live.staticflickr.com/65535/52132847194_9ca15ea7f1_k.jpg" width="1048" height="536" alt="IMG_2005"/></a>
 
 ## ✨Highlighted✨ repositories
 
