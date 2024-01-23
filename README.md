@@ -17,7 +17,7 @@
 
 I am a Research Fish Biologist in the [Water and Watersheds Program](https://www.fs.usda.gov/research/rmrs/programs/waterwatersheds) at the U.S. Forest Service [Rocky Mountain Research Station](https://www.fs.usda.gov/research/rmrs) working out of Boise, ID. I enjoy linking theory with big data, and I strive to address pressing ecological and conservation questions while remaining grounded in empiricism. I also have long-standing professional and personal interests in the ecology, conservation, and natural history of fishes. 
 
-For more info, check out my [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf)). 
+For more info, check out my [website](https://bryan-m-maitland.netlify.app/) and [my CV](https://bryan-m-maitland.netlify.app/uploads/cv.pdf). 
 
 
 ## ✨Highlighted✨ repositories
