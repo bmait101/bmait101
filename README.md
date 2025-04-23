@@ -14,26 +14,3 @@
 ## Welcome!
 
 I am a Research Fish Biologist in the [Water and Watersheds Program](https://www.fs.usda.gov/research/rmrs/programs/waterwatersheds) at the USDA Forest Service [Rocky Mountain Research Station](https://www.fs.usda.gov/research/rmrs) working out of Boise, ID. I enjoy linking theory with big data, and I strive to address pressing ecological and conservation questions while remaining grounded in empiricism. I also have long-standing professional and personal interests in the ecology, conservation, and natural history of fishes.
-
-
-## ✨Highlighted✨ repositories
-
-### _Conservation ecology_
-
-- [hatchR: an R package for predicting fish developmental phenology 🐟](https://github.com/bmait101/hatchR)
-- [seasonal weather and stream trout recruitment 🐟](https://github.com/bmait101/swass)
-- [distribution of trout in driftless streams 🎣](https://github.com/bmait101/driftless-trout-presence)
-- [stream crossing impacts on boreal fish and stream habitat 📉](https://github.com/bmait101/culverts-and-boreal-stream-fish)
-- [prioritizing culvert restoration in the boreal forest 💶](https://github.com/bmait101/culvert-restoration-prioritization)
-
-
-### _Food webs and stable isotope ecology_
-
-- [food web theory and Lake Michigan](https://github.com/bmait101/lake-michigan-foodwebs)
-- [food web expansion and trophic redundancy in streams](https://github.com/bmait101/trophic-expansion)
-- [identifying baselines for stable isotope stuides](https://github.com/bmait101/baseline-sia-proxies)
-- [trophic discimination factors and isotopic incorportation ](https://github.com/bmait101/isotopic-discrimination-incorporation)
-- [non-lethal fin sampling for fish food web studies using stable isotopes](https://github.com/bmait101/non-lethal-fin-models)
-
-
-
