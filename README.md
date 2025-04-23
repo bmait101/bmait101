@@ -7,7 +7,6 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat-square&logo=googlescholar&logoColor=white&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.ca/citations?hl=en&user=tGn-FzAAAAAJ&view_op=list_works&sortby=pubdate)
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Bryan-Maitland)
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=flat-square&logo=orcid&logoColor=white&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-4491-5064)
-[![Twitter follow](https://img.shields.io/twitter/follow/BryanMaitland?label=%20%40BryanMaitland&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/BryanMaitland)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue.svg?style=flat-square&logo=linkedin&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.linkedin.com/in/bryan-maitland-b8b04522b/)
 
 
